@@ -1,0 +1,24 @@
+# Java build output
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# NetBeans specific files
+nbproject/private/
+nbproject/loc/
+.idea/
+
+# Maven or Gradle build directories
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
